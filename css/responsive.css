@@ -1,13 +1,14 @@
 @media (max-width: 768px) {
-.main-content {
-    margin-top: 146px;
-}
+
   .product-cart-offcanvas .offcanvas {
     top: var(--header-height, 133px);
 }
   .logo_Bar {
     gap: 45px !important;
   }
+  .main-content {
+    margin-top: 135px;
+}
 }
 
 @media (max-width: 992px) {
